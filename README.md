@@ -12,7 +12,7 @@ The data is provided in the following link: https://www.kaggle.com/datasets/blas
 
 Code
 The code for this project is written in Python and is provided in the code folder. 
-The main script is churn_prediction.py, which trains and evaluates several machine learning models for predicting customer churn.
+The main script is Customer_Churn_Prediction_Project.ipynb, which trains and evaluates several machine learning models for predicting customer churn.
 
 
 Dependencies
